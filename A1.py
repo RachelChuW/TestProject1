@@ -6,6 +6,8 @@ import matplotlib.pyplot as plt
 import csv
 import math
 
+#first change
+
 # global variables
 reviews = [] #store the data read from Jason file
 k = 6 # shingle length
