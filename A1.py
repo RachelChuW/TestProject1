@@ -8,6 +8,8 @@ import math
 
 #first change
 
+#second change
+
 # global variables
 reviews = [] #store the data read from Jason file
 k = 6 # shingle length
